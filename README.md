@@ -5,12 +5,12 @@
 
 
 原始图像
-！[](https://github.com/labAxiaoming/AEC_zidongbaoguang/blob/master/0.jpg)
+![](https://github.com/labAxiaoming/AEC_zidongbaoguang/blob/master/0.jpg)
 运行demo.py得到
 ![](https://github.com/labAxiaoming/AEC_zidongbaoguang/blob/master/out.jpg)
 
 原始图像
-！[](https://github.com/labAxiaoming/AEC_zidongbaoguang/blob/master/02.jpg)
+![](https://github.com/labAxiaoming/AEC_zidongbaoguang/blob/master/02.jpg)
 运行demo.py得到
 ![](https://github.com/labAxiaoming/AEC_zidongbaoguang/blob/master/out02.jpg)
 
