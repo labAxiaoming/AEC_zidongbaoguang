@@ -1,6 +1,8 @@
 # AEC_zidongbaoguang
 #自动曝光修复算法
+
 环境：python3
+
 依赖项：opencv3、numpy
 
 
